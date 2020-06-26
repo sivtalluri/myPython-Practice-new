@@ -4,6 +4,7 @@ x= sys.argv[1]
 z = x
 print(z)
 print("value of : ", z)
+print("testing Jenkin build"
 
 
 
